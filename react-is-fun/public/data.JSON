@@ -1,0 +1,47 @@
+{
+    "recipes": [
+        {
+            "_id": 0,
+            "title": "Delicious Chana Masala",
+            "chef": "norm vandyke",
+            "preptime": 15,
+            "cookTime": 30,
+            "url": "https://www.allrecipes.com/recipe/236563/delicious-chana-masala/",
+            "img": "https://www.mygingergarlickitchen.com/wp-content/rich-markup-images/4x3/4x3-nayab-chana-masala-spicy-chickpeas-curry-vegetarian-recipe.jpg",
+            "recipesToDo": [
+                "Heat oil in a large saucepan over medium heat. Saute onion, garlic, ginger, and green chile pepper in hot oil until onions are translucent, about 10 minutes.",
+                "Season onion mixture with cumin, paprika, coriander, garam masala, turmeric, and cayenne pepper; stir. Cook onion with spices until fragrant, 1 to 2 minutes. Add tomatoes, chickpeas, and tomato sauce; stir and simmer until the tomatoes soften, about 5 minutes.",
+                "Stir yogurt into the mixture until the color of the mixture is even; simmer until again hot, about 5 minutes more. Remove pan from heat; stir lemon juice and salt into the mixture."
+            ]
+        },
+        {
+            "_id": 1,
+            "title": "Mango Lassi",
+            "chef": "Manali",
+            "preptime": 10,
+            "cookTime": 5,
+            "url": "https://www.cookwithmanali.com/mango-lassi/",
+            "img": "https://www.cookwithmanali.com/wp-content/uploads/2014/05/Indian-Mango-Lassi-Recipe.jpg",
+            "recipesToDo": [
+                "To a large bowl or cup, add 1 cup fresh mango pulp. I got the pulp from 2 large sweet mangoes which I blended in a blender to make it smooth .You can use canned mango pulp if you can’t find sweet mangoes.",
+                "To the same bowl, now add yogurt. I have used plain whole milk yogurt here.",
+                "Now add cold milk (or water). I add this to thin out the lassi a bit. Also add the sugar and the cardamom powder.",
+                "Blend everything until well combined. I used an immersion blender.",
+                "Pour the mango lassi into serving glasses and chill before serving!. You may garnish with nuts and saffron strands before serving."
+            ]
+        },
+        {
+            "_id": 2,
+            "title": "Dalgona Coffee",
+            "chef": "June Xie",
+            "preptime": 5,
+            "cookTime": 10,
+            "url": "https://www.delish.com/cooking/recipe-ideas/a32072159/dalgona-coffee-recipe/",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Homemade_Dalgona_Coffee.jpg/220px-Homemade_Dalgona_Coffee.jpg",
+            "recipesToDo": [
+                "In a medium bowl, combine sugar, coffee, and water. Using a hand mixer or a whisk, vigorously whisk until mixture turns silky smooth and shiny, then continue whisking until it thickens and holds its lofty, foamy shape. (If whisking by hand, it will take 8 to 12 minutes to get to optimal fluffiness.)",
+                " Fill a glass most of the way full with ice and milk, then dollop and swirl the whipped coffee mixture on top, mixing before drinking, if desired."
+            ]
+        }
+    ]
+}
